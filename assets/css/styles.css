@@ -1,0 +1,9 @@
+/* EstudiaYa - Archivo CSS Principal */
+/* Importaciones de módulos CSS */
+
+/* Estilos base y variables */
+@import "./base.css";
+
+/* Componentes compartidos */
+@import "./header.css";
+@import "./footer.css";
